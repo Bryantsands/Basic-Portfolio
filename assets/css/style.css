@@ -1,0 +1,111 @@
+body{
+	background-image: url(http://lorempixel.com/output/nightlife-q-g-640-480-8.jpg);
+	width:960px; 
+}
+a{
+	color: #cccccc;
+}
+
+ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	float:right;
+	padding-right: 200px;
+	padding-top: 14px;
+}
+li {
+	display: inline;
+}
+
+
+header {
+	width: 960px;
+	background-color: #ffffff;
+	border-bottom: 2px solid #cccccc;
+	background-width: 960px;
+	height:51px;
+}
+h2 {
+	color: #4aaaa5;
+	padding: 10px;
+	border-bottom: 2px solid #cccccc;
+	margin-bottom: 10px;
+}
+
+h1 {
+	background-color: #4aaaa5;
+	border-color: #cccccc;
+	border-style: solid;
+	font-style: 'Georgia', Times, Times New Roman, serif;
+	width: 115px;
+	float:left;
+	padding-left: 0px;
+	padding-top: 17px;
+	margin-left: 65px;
+	height: 33px;
+	color: #ffffff;
+	text-align: center;
+}
+
+h3{
+	color: #4aaaa5;
+	border-bottom: 2px solid #cccccc;
+
+}
+#main-bio {
+	width: 495px;
+	background-color: #ffffff;
+	border:2px solid #dddddd;
+	padding: 3px;
+	margin: 32px;
+	font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-decoration-color: #ebebeb;
+	float: left;
+
+}
+
+#container {
+	width: 960px;
+}
+
+#aside{
+	width: 270px;
+	height: 178px;
+	float: left;
+	background-color: #ffffff;
+	border:2px solid #dddddd;
+	padding: 10px;
+	margin: 32px;
+
+}
+
+#portfolio{
+	width:425px;
+	background-color: #ffffff;
+	border:2px solid #dddddd;
+	padding: 10px;
+	margin: 32px;
+	margin-left: 50px;
+	font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-decoration-color: #ebebeb;
+	float: left;
+	height: 475px;
+
+}
+
+footer{
+	width: 960px;
+	height: 62px;
+	background-color: #666666;
+	font-style: Arial;
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+	padding-top: 10px;
+	border-bottom: 47px solid #ffffff; 
+	border-top: 14px solid #4aaaa5;
+}
+
