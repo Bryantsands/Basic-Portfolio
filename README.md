@@ -1,2 +1,0 @@
-# Basic-Portfolio
-class portfolio
